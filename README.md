@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @LAVANYASINGH currently a B.Tech 3rd year student at RGIPT, Jais.
+- 👀 I’m interested in expanding my knowledge and to apply my skills in real-world projects to grow as a developer and tech enthusiast.
+- I have a strong foundation in coding, with experience in programming languages such as C++, Python, and C.
+- 🌱 I’m currently learning and exploring new technologies, with a focus on Artificial Intelligence and Machine Learning.
+- 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, data science, and software development. I’m especially interested in working on real-world applications of AI/ML, coding challenges, and contributing to open-source projects that focus on innovative technologies.
+- 📫 You can reach to me via email-id : 22it3023@rgipt.ac.in
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a cook, a singer and a writer. (tbh I can cook anything except rotis.) 
