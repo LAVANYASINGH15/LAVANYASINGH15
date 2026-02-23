@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @LAVANYASINGH currently a B.Tech 3rd year student at RGIPT, Jais.
-- 👀 I’m interested in expanding my knowledge and to apply my skills in real-world projects to grow as a developer and tech enthusiast.
-- I have a strong foundation in coding, with experience in programming languages such as C++, Python, and C.
-- 🌱 I’m currently learning and exploring new technologies, with a focus on Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, data science, and software development. I’m especially interested in working on real-world applications of AI/ML, coding challenges, and contributing to open-source projects that focus on innovative technologies.
-- 📫 You can reach to me via email-id : 22it3023@rgipt.ac.in
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a cook, a singer and a writer. (tbh I can cook anything except rotis.) 
+<h1 align="center">Hi 👋, I'm Lavanya Singh</h1>
+
+<h3 align="center">
+🚀 Software Engineer | 💻 Competitive Programmer | 🤖 AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Solving+DSA+Problems+Daily;Exploring+AI+%26+Deep+Learning;Future+SDE+@+FAANG" />
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 B.Tech (IT)  
+- 💡 Strong in **C++, Python, DSA & System Design**
+- 🧠 Building AI-powered applications using **PyTorch & TensorFlow**
+- 📈 Active on Competitive Programming platforms
+- 🚀 Currently preparing for top-tier SDE roles
+
+---
+
+### ⚡ What I Love Working On
+
+- Algorithms & Data Structures  
+- Backend Engineering  
+- Machine Learning Systems  
+- Performance Optimization  
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: (add link)
+- Portfolio: (add link)
