@@ -1,52 +1,67 @@
-<h1 align="center">hey there 👋 i'm lavanya</h1>
+<h1 align="center">Hi 👋, I'm Lavanya Singh</h1>
+
+<h3 align="center">
+AI Engineer | ML Researcher | Backend Developer
+</h3>
 
 <p align="center">
-ai • backend • research • building things that actually work
+Building AI Systems • Computer Vision • GenAI • Backend Engineering
 </p>
 
-<img align="right" width="260"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
 
-### about me
+<img src="https://komarev.com/ghpvc/?username=LAVANYASINGH15&label=Profile%20Views&color=0e75b6"/>
 
-🎓 information technology @ RGIPT  
+</p>
 
-🧠 interested in AI systems, backend engineering, LLMs & computer vision  
+<img align="right" alt="Coding" width="320"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-⚙️ currently learning → fastapi • langchain • postgres • redis  
+### 🚀 About Me
 
-📄 IEEE publication @ ISED 2025  
-
-💻 DSA + system design + ML  
-
-☕ debugging first, questioning life later
-
-
----
-
-### tech i work with
-
-`python` `fastapi` `flask` `pytorch`  
-`sql` `mongodb` `docker`  
-`git` `aws` `linux`
+- 🎓 B.Tech Information Technology @ RGIPT
+- 📄 IEEE Research Paper (ISED 2025)
+- 🤖 Exploring LLMs, Agentic AI, FastAPI
+- 💻 Strong in DSA, System Design, ML
+- 🌱 Learning LangChain, PostgreSQL, Redis
+- ⚡ Building scalable AI systems
 
 ---
 
-### current mood
+### 🛠 Languages & Tools
 
-```python
-while alive:
-    learn()
-    build()
-    improve()
-```
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,pytorch,mysql,mongodb,docker,aws,linux,git,github,vscode"/>
+
+</p>
 
 ---
 
-### find me here
+### 📊 GitHub Stats
 
-📧 lavanyasinghit@gmail.com  
+<p align="center">
 
-💼 [linkedin](YOUR_LINKEDIN)
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=LAVANYASINGH15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🐙 [github](https://github.com/LAVANYASINGH15)
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAVANYASINGH15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+### 🔥 Coding
+
+- LeetCode: 1672
+- Codeforces: 1322
+- Regular DSA Practice
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK) •
+[GitHub](https://github.com/LAVANYASINGH15) •
+[Email](mailto:lavanyasinghit@gmail.com)
