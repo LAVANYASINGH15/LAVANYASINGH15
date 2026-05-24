@@ -1,79 +1,52 @@
-<h1 align="center">Hi 👋, I'm Lavanya Singh</h1>
-
-<h3 align="center">
-AI Engineer | ML Researcher | Backend Developer
-</h3>
+<h1 align="center">hey there 👋 i'm lavanya</h1>
 
 <p align="center">
-Building AI Systems • Computer Vision • GenAI • Backend Engineering
+ai • backend • research • building things that actually work
 </p>
 
-<p align="center">
+<img align="right" width="260"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img src="https://komarev.com/ghpvc/?username=LAVANYASINGH15&label=Profile%20Views&color=0e75b6"/>
+### about me
 
-</p>
+🎓 information technology @ RGIPT  
 
-<img align="right" alt="Coding Girl" width="320"
-src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+🧠 interested in AI systems, backend engineering, LLMs & computer vision  
 
-### 🚀 About Me
+⚙️ currently learning → fastapi • langchain • postgres • redis  
 
-- 🎓 B.Tech Information Technology @ RGIPT
-- 📄 IEEE Research Paper (ISED 2025)
-- 🤖 Exploring LLMs, Agentic AI, FastAPI
-- 💻 Strong in DSA, System Design, ML
-- 🌱 Learning LangChain, PostgreSQL, Redis
-- ⚡ Building scalable AI systems
+📄 IEEE publication @ ISED 2025  
+
+💻 DSA + system design + ML  
+
+☕ debugging first, questioning life later
+
 
 ---
 
-### 🛠 Languages & Tools
+### tech i work with
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,pytorch,mysql,mongodb,docker,aws,linux,git,github,vscode"/>
-
-</p>
+`python` `fastapi` `flask` `pytorch`  
+`sql` `mongodb` `docker`  
+`git` `aws` `linux`
 
 ---
 
-### 📊 GitHub Stats
+### current mood
 
-<p align="center">
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=LAVANYASINGH15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAVANYASINGH15&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+```python
+while alive:
+    learn()
+    build()
+    improve()
+```
 
 ---
 
-### 🔥 Coding
+### find me here
 
-- LeetCode: 1672
-- Codeforces: 1322
-- Regular DSA Practice
+📧 lavanyasinghit@gmail.com  
 
----
+💼 [linkedin](YOUR_LINKEDIN)
 
-### 🌐 Connect With Me
-
-<p>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:lavanyasinghit@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/LAVANYASINGH15">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+🐙 [github](https://github.com/LAVANYASINGH15)
