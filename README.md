@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NDl6b3p1MnR6dmx0Nzhid2tsZmdwOHg5YzUxeG8zMXo4eW9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" align="right" alt="Girl Coder Working" style="margin-left: 20px; float: right;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NDl6b3p1MnR6dmx0Nzhid2tsZmdwOHg5YzUxeG8zMXo4eW9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="320px" align="right" alt="Girl Coder Working" style="margin-left: 20px; float: right;" />
 </p>
 
 * 🎓 **B.Tech Information Technology** @ RGIPT ('26)
