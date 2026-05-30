@@ -63,23 +63,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
-<!-- Quote Section -->
-<h2 align="center">💭 Mindset</h2>
+---
 
-<div align="center">
+## 💭 Mindset
 
-| |
-|:---:|
-| ✨ **If you're persistent, you'll get it.** |
-| 🚀 **If you're consistent, you'll keep it.** |
-| 🌱 **If you're grateful, you'll attract more of it.** |
-
-</div>
+> **If you're persistent, you'll get it.**  
+> **If you're consistent, you'll keep it.**  
+> **If you're grateful, you'll attract more of it.**
 
 <p align="center">
-  <b>Keep Building • Keep Learning • Keep Growing</b>
+  ✨ Keep Building • Keep Learning • Keep Growing ✨
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:312e81,100:7c3aed&text=💭%20Mindset&fontColor=ffffff&fontSize=38&fontAlignY=22&desc=If%20you're%20persistent,%20you'll%20get%20it.%20•%20If%20you're%20consistent,%20you'll%20keep%20it.%20•%20If%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
-</p>
+---
