@@ -64,6 +64,7 @@
   </a>
 </p>
 ----
+
 ## 💭 Mindset
 
 > **If you're persistent, you'll get it.**  
