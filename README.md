@@ -66,10 +66,7 @@
 ---
 
 <p align="center">
-  <i>
-    "If you're persistent, you'll get it.<br>
-    If you're consistent, you'll keep it.<br>
-    If you're grateful, you'll attract more of it."
-  </i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=If%20you're%20persistent,%20you'll%20get%20it.%20%20If%20you're%20consistent,%20you'll%20keep%20it.%20%20If%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&fontSize=22&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
+
 
