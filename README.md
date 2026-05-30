@@ -63,11 +63,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
----
-
----
+<!-- Quote Section -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=If%20you're%20persistent,%20you'll%20get%20it.%0AIf%20you're%20consistent,%20you'll%20keep%20it.%0AIf%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&fontColor=ffffff&fontSize=24&animation=fadeIn"/>
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=1000&height=120&lines=If+you're+persistent,+you'll+get+it.;If+you're+consistent,+you'll+keep+it.;If+you're+grateful,+you'll+attract+more+of+it." />
 </p>
 
+<p align="center">
+  ✨ Keep Building • Keep Learning • Keep Growing ✨
+</p>
