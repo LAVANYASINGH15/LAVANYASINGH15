@@ -1,31 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75F1C&center=true&vCenter=true&width=800&height=120&lines=Hi+%F0%9F%91%8B,+I'm+Lavanya+Singh;AI+Engineer+%7C+ML+Researcher;Backend+Developer;Building+Scalable+AI+Systems" alt="Dynamic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75F1C&center=true&vCenter=true&width=900&height=120&lines=Hi+%F0%9F%91%8B,+I'm+Lavanya+Singh;AI+Engineer+%7C+ML+Researcher;SDE+%7C+Backend+Developer;Building+Scalable+AI+Systems" width="100%" alt="Dynamic Typing Header" />
 </p>
 
-<p align="center">Building AI Systems • Computer Vision • GenAI • Backend Engineering</p>
+<p align="center"><b>Building AI Systems • Computer Vision • GenAI • Backend Engineering • SDE</b></p>
 
 ---
 
 ## 🚀 About Me
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <b>B.Tech Information Technology</b> @ RGIPT ('26)</li>
-        <li>📄 <b>IEEE Research Paper</b> (ISED 2025)</li>
-        <li>🤖 Exploring <b>LLMs, Agentic AI, FastAPI</b></li>
-        <li>💻 Strong in <b>DSA, System Design, ML</b></li>
-        <li>🌱 Learning <b>LangChain, PostgreSQL, Redis</b></li>
-        <li>⚡ Passionate about building scalable AI systems</li>
-      </ul>
-      <p align="left"><i>"Code.Optimise.Repeat"</i></p>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NDl6b3p1MnR6dmx0Nzhid2tsZmdwOHg5YzUxeG8zMXo4eW9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Girl Coder Working" />
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NDl6b3p1MnR6dmx0Nzhid2tsZmdwOHg5YzUxeG8zMXo4eW9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="240px" align="right" alt="Girl Coder Working" style="margin-left: 20px; float: right;" />
+</p>
+
+* 🎓 **B.Tech Information Technology** @ RGIPT ('26)
+* 📄 **IEEE Research Paper** (ISED 2025)
+* 🤖 Exploring **LLMs, Agentic AI, FastAPI**
+* 💻 Strong in **DSA, System Design, ML**
+* 🌱 Learning **LangChain, PostgreSQL, Redis**
+* ⚡ Passionate about building scalable AI systems
+
+<br>
+
+> *"Code.Optimise.Repeat"*
+
+<div style="clear: both;"></div>
 
 ---
 
