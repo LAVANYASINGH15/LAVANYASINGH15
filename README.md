@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75F1C&center=true&vCenter=true&width=900&height=120&lines=Hi+%F0%9F%91%8B,+I'm+Lavanya+Singh;AI+Engineer+%7C+ML+Researcher;SDE+%7C+Backend+Developer;Building+Scalable+AI+Systems" width="100%" alt="Dynamic Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20👋,%20I'm%20Lavanya%20Singh&fontSize=38&animation=twinkle&fontColor=ffffff" width="100%" alt="Dynamic Header Banner" />
 </p>
 
 <p align="center"><b>Building AI Systems • Computer Vision • GenAI • Backend Engineering • SDE</b></p>
