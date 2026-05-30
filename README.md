@@ -65,8 +65,9 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=If%20you're%20persistent,%20you'll%20get%20it.%20%20If%20you're%20consistent,%20you'll%20keep%20it.%20%20If%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&fontSize=22&fontAlignY=50&animation=fadeIn" width="100%" />
-</p>
+---
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=If%20you're%20persistent,%20you'll%20get%20it.%0AIf%20you're%20consistent,%20you'll%20keep%20it.%0AIf%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&fontColor=ffffff&fontSize=24&animation=fadeIn"/>
+</p>
 
