@@ -79,3 +79,7 @@
 <p align="center">
   <b>Keep Building • Keep Learning • Keep Growing</b>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:312e81,100:7c3aed&text=💭%20Mindset&fontColor=ffffff&fontSize=38&fontAlignY=22&desc=If%20you're%20persistent,%20you'll%20get%20it.%20•%20If%20you're%20consistent,%20you'll%20keep%20it.%20•%20If%20you're%20grateful,%20you'll%20attract%20more%20of%20it.&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
