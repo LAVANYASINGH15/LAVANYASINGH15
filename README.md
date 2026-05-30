@@ -63,3 +63,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
+---
+
+<p align="center">
+  <i>
+    "If you're persistent, you'll get it.<br>
+    If you're consistent, you'll keep it.<br>
+    If you're grateful, you'll attract more of it."
+  </i>
+</p>
+
