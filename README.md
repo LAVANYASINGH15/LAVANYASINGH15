@@ -71,8 +71,5 @@
 > **If you're consistent, you'll keep it.**  
 > **If you're grateful, you'll attract more of it.**
 
-<p align="center">
-  ✨ Keep Building • Keep Learning • Keep Growing ✨
-</p>
 
 ---
