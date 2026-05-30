@@ -64,11 +64,18 @@
   </a>
 </p>
 <!-- Quote Section -->
+<h2 align="center">💭 Mindset</h2>
+
+<div align="center">
+
+| |
+|:---:|
+| ✨ **If you're persistent, you'll get it.** |
+| 🚀 **If you're consistent, you'll keep it.** |
+| 🌱 **If you're grateful, you'll attract more of it.** |
+
+</div>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=1000&height=120&lines=If+you're+persistent,+you'll+get+it.;If+you're+consistent,+you'll+keep+it.;If+you're+grateful,+you'll+attract+more+of+it." />
-</p>
-
-<p align="center">
-  ✨ Keep Building • Keep Learning • Keep Growing ✨
+  <b>Keep Building • Keep Learning • Keep Growing</b>
 </p>
